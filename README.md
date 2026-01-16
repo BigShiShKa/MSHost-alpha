@@ -51,7 +51,7 @@ Winsock2 (Windows)
 Файловая система C++17
 
 # Установка
-Компиляция
-bash
-# Сборка проекта
+**Сборка проекта**
+---batch
 g++ ./src/main.cpp ./src/MinecraftServerManager.cpp ./src/httpServer.cpp -o ./bin/mshost -lws2_32
+---
