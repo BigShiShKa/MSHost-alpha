@@ -1,0 +1,157 @@
+[2025-07-17 21:31:01] [INFO] [WEB] Токены перечитаны, всего: 1
+[2025-07-17 21:31:01] [INFO] [WEB] Инициализация маршрутов...
+[2025-07-17 21:31:01] [ERROR] [WEB] Лог-файл не найден: D:\Programms\MSHost_build\server.log
+[2025-07-17 21:31:01] [INFO] [WEB] Адрес памяти сервера: 174822780824
+[2025-07-17 21:31:01] [INFO] [WEB] HTTP сервер запущен на порту: 8080
+[2025-07-17 21:39:07] [INFO] [WEB] [198.23.214.114] POST /xmlrpc.php
+[2025-07-17 21:39:08] [INFO] [WEB] [104.239.124.193] POST /xmlrpc.php
+[2025-07-17 21:43:49] [INFO] [WEB] [80.82.77.202] GET /
+[2025-07-17 21:44:24] [INFO] [WEB] [185.191.127.222] GET /
+[2025-07-17 21:44:51] [INFO] [WEB] [93.123.72.134] GET /
+[2025-07-17 21:50:51] [INFO] [WEB] [204.76.203.211] GET /
+[2025-07-17 21:52:02] [INFO] [WEB] [95.108.213.98] GET /robots.txt
+[2025-07-17 21:52:03] [INFO] [WEB] [5.255.231.61] GET /
+[2025-07-17 21:53:11] [INFO] [WEB] [149.50.103.48] GET /
+[2025-07-17 22:03:54] [INFO] [WEB] [45.194.66.8] GET /
+[2025-07-17 22:07:15] [INFO] [WEB] [176.59.6.64] GET /favicon.png
+[2025-07-17 22:07:15] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:07:15] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:07:15] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:07:16] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:07:16] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:07:16] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:07:18] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:07:18] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:07:18] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:07:19] [INFO] [WEB] [176.59.6.64] GET /
+[2025-07-17 22:07:19] [INFO] [WEB] [176.59.6.64] GET /assets/css/index.css
+[2025-07-17 22:07:19] [INFO] [WEB] [176.59.6.64] GET /assets/js/unobfs.js
+[2025-07-17 22:07:19] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:07:19] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:07:19] [INFO] [WEB] [176.59.6.64] GET /favicon.png
+[2025-07-17 22:07:19] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:07:21] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:07:21] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:07:21] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:07:23] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:07:23] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:07:23] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:07:25] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:07:25] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:07:25] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:07:27] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:07:27] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:07:27] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:07:32] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:07:32] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:07:32] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:07:33] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:07:33] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:07:33] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:07:35] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:07:35] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:07:35] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:07:37] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:07:37] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:07:37] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:07:39] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:07:39] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:07:39] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:07:41] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:07:41] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:07:41] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:07:43] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:07:43] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:07:43] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:07:54] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:07:54] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:07:54] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:07:54] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:07:55] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:07:55] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:07:55] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:07:55] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:07:55] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:07:55] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:07:55] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:07:55] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:07:55] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:07:56] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:07:56] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:07:56] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:07:56] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:07:56] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:07:58] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:07:58] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:07:58] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:08:00] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:08:00] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:08:00] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:08:02] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:08:02] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:08:02] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:08:04] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:08:04] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:08:04] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:08:06] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:08:06] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:08:06] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:08:08] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:08:08] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:08:08] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:08:10] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:08:10] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:08:10] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:08:12] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:08:12] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:08:12] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:08:14] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:08:14] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:08:14] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:08:16] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:08:16] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:08:16] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:08:18] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:08:18] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:08:18] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:08:20] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:08:20] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:08:20] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:08:22] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:08:22] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:08:22] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:08:24] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:08:24] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:08:24] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:08:26] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:08:26] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:08:26] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:08:28] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:08:28] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:08:28] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:08:30] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:08:30] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:08:30] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:08:32] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:08:32] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:08:32] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:08:34] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:08:34] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:08:34] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:08:36] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:08:36] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:08:36] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:08:38] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:08:38] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:08:38] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:08:40] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:08:40] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:08:40] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:08:42] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:08:42] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:08:42] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:08:44] [INFO] [WEB] [176.59.6.64] GET /api/status
+[2025-07-17 22:08:44] [INFO] [WEB] [176.59.6.64] GET /api/logs
+[2025-07-17 22:08:44] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost_build\server.log, errno=2
+[2025-07-17 22:12:57] [WARN] [WEB] Остановка WEB сервера...
+[2025-07-17 22:12:59] [INFO] [WEB] Сервер остановлен

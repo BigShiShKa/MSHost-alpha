@@ -1,0 +1,30 @@
+[2025-07-17 21:20:47] [INFO] [WEB] Токены перечитаны, всего: 1
+[2025-07-17 21:20:47] [INFO] [WEB] Инициализация маршрутов...
+[2025-07-17 21:20:47] [ERROR] [WEB] Лог-файл не найден: D:\Programms\MSHost — build\server.log
+[2025-07-17 21:20:47] [INFO] [WEB] Адрес памяти сервера: 737081813880
+[2025-07-17 21:20:47] [INFO] [WEB] HTTP сервер запущен на порту: 8080
+[2025-07-17 21:22:31] [INFO] [WEB] [91.223.70.49] GET /
+[2025-07-17 21:22:31] [INFO] [WEB] [91.223.70.49] GET /assets/js/unobfs.js
+[2025-07-17 21:22:31] [INFO] [WEB] [91.223.70.49] GET /assets/css/index.css
+[2025-07-17 21:22:33] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 21:22:33] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 21:22:33] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost — build\server.log, errno=2
+[2025-07-17 21:22:35] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 21:22:35] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 21:22:35] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost — build\server.log, errno=2
+[2025-07-17 21:22:36] [INFO] [WEB] [91.223.70.49] GET /
+[2025-07-17 21:22:36] [INFO] [WEB] [91.223.70.49] GET /assets/js/unobfs.js
+[2025-07-17 21:22:36] [INFO] [WEB] [91.223.70.49] GET /assets/css/index.css
+[2025-07-17 21:22:36] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 21:22:36] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 21:22:36] [INFO] [WEB] [91.223.70.49] GET /favicon.png
+[2025-07-17 21:22:37] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost — build\server.log, errno=2
+[2025-07-17 21:22:38] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 21:22:38] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 21:22:39] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost — build\server.log, errno=2
+[2025-07-17 21:22:40] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 21:22:40] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 21:22:41] [ERROR] [WEB] Не удалось открыть logPath: D:\Programms\MSHost — build\server.log, errno=2
+[2025-07-17 21:26:46] [INFO] [WEB] [193.34.212.110] GET /
+[2025-07-17 21:26:59] [WARN] [WEB] Остановка WEB сервера...
+[2025-07-17 21:27:01] [INFO] [WEB] Сервер остановлен

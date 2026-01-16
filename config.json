@@ -1,0 +1,35 @@
+{
+  "java": {
+    "path": "C:\\Program Files\\Zulu\\zulu-17\\bin\\java.exe",
+    "jvm_args": [
+      "-Xmx16G"
+    ]
+  },
+  "server": {
+    "directory": "C:\\Games\\Arclight1.20.1",
+    "forge_args": "@libraries/net/minecraftforge/forge/1.20.1-47.3.22/win_args.txt",
+    "user_jvm_args": "@user_jvm_args.txt",
+    "stop_timeout_ms": 20000,
+    "force_kill_timeout_ms": 5000,
+    "rcon": {
+      "enabled": true,
+      "host": "127.0.0.1",
+      "port": 25575,
+      "password": "test123",
+      "retry_interval": 3000,
+      "max_retries": 12
+    }
+  },
+  "web": {
+    "port": 8080,
+    "tokens_file": "tokens",
+    "logs_path": "D:\\Programms\\MSHost-RCON\\server.log",
+    "modpack_path": "C:\\Games\\Arclight1.20.1\\modpack.rar",
+    "web_root": "./site",
+    "upload_limit": 7
+  },
+  "logging": {
+    "console": true,
+    "log_level": "INFO"
+  }
+}

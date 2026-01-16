@@ -1,0 +1,791 @@
+[2025-07-17 22:30:55] [INFO] [WEB] Токены перечитаны, всего: 1
+[2025-07-17 22:30:55] [INFO] [WEB] Инициализация маршрутов...
+[2025-07-17 22:30:55] [INFO] [WEB] Адрес памяти сервера: 33650896168
+[2025-07-17 22:30:55] [INFO] [WEB] HTTP сервер запущен на порту: 8080
+[2025-07-17 22:30:56] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:30:56] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:30:56] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:30:58] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:30:58] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:30:58] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:00] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:00] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:00] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:02] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:02] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:02] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:04] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:04] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:04] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:06] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:06] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:06] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:08] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:08] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:08] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:10] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:10] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:10] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:12] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:12] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:12] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:14] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:14] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:14] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:16] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:16] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:16] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:18] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:18] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:18] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:20] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:20] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:20] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:22] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:22] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:22] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:24] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:24] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:24] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:26] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:26] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:26] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:28] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:28] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:28] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:30] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:30] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:30] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:32] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:32] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:32] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:34] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:34] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:34] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:36] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:36] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:36] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:38] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:38] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:38] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:40] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:40] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:40] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:42] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:42] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:42] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:44] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:44] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:44] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:46] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:46] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:46] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:48] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:48] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:48] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:50] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:50] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:50] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:52] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:52] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:52] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:54] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:54] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:54] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:56] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:56] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:56] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:31:58] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:31:58] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:31:58] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:00] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:00] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:00] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:02] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:02] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:02] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:04] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:04] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:04] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:06] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:06] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:06] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:08] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:08] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:08] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:10] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:10] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:10] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:12] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:12] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:12] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:14] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:14] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:14] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:16] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:16] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:16] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:18] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:18] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:18] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:20] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:20] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:20] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:22] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:22] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:22] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:24] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:24] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:24] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:26] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:26] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:26] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:28] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:28] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:28] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:30] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:30] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:30] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:32] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:32] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:32] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:34] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:34] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:34] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:36] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:36] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:36] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:38] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:38] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:38] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:40] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:40] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:40] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:42] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:42] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:42] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:44] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:44] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:44] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:46] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:46] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:46] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:48] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:48] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:48] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:50] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:50] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:50] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:52] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:52] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:52] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:54] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:54] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:54] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:56] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:56] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:56] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:32:58] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:32:58] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:32:58] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:00] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:00] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:00] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:02] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:02] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:02] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:04] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:04] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:04] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:06] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:06] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:06] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:08] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:08] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:08] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:10] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:10] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:10] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:12] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:12] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:12] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:14] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:14] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:14] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:16] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:16] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:16] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:18] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:18] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:18] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:20] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:20] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:20] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:22] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:22] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:22] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:24] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:24] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:24] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:26] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:26] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:26] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:28] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:28] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:28] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:30] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:30] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:30] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:32] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:32] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:32] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:34] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:34] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:34] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:36] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:36] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:36] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:38] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:38] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:38] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:40] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:40] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:40] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:42] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:42] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:42] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:44] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:44] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:44] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:46] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:46] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:46] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:48] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:48] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:48] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:50] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:50] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:50] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:52] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:52] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:52] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:54] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:54] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:54] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:56] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:56] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:56] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:33:58] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:33:58] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:33:58] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:00] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:00] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:00] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:02] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:02] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:02] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:04] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:04] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:04] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:06] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:06] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:06] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:08] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:08] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:08] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:10] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:10] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:10] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:12] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:12] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:12] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:14] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:14] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:14] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:16] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:16] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:16] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:18] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:18] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:18] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:20] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:20] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:20] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:22] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:22] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:22] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:24] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:24] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:24] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:26] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:26] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:26] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:28] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:28] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:28] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:30] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:30] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:30] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:32] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:32] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:32] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:34] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:34] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:34] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:36] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:36] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:36] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:38] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:38] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:38] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:40] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:40] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:40] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:42] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:42] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:42] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:44] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:44] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:44] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:46] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:46] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:46] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:48] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:48] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:48] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:50] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:50] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:50] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:52] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:52] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:52] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:54] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:54] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:54] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:56] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:56] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:56] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:34:58] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:34:58] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:34:58] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:00] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:00] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:00] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:02] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:02] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:02] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:04] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:04] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:04] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:06] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:06] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:06] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:08] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:08] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:08] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:10] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:10] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:10] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:12] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:12] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:12] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:14] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:14] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:14] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:16] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:16] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:16] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:18] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:18] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:18] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:20] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:20] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:20] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:22] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:22] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:22] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:24] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:24] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:24] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:26] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:26] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:26] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:28] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:28] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:28] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:30] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:30] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:30] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:32] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:32] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:32] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:34] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:34] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:34] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:36] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:36] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:36] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:38] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:38] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:38] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:38] [INFO] [WEB] [193.34.212.110] GET /
+[2025-07-17 22:35:40] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:40] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:40] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:42] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:42] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:42] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:44] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:44] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:44] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:46] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:46] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:46] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:48] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:48] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:48] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:50] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:50] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:50] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:52] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:52] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:52] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:54] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:54] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:54] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:56] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:56] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:56] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:35:58] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:35:58] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:35:58] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:00] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:00] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:00] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:02] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:02] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:02] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:04] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:04] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:04] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:06] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:06] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:06] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:08] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:08] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:08] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:10] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:10] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:10] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:12] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:12] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:12] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:14] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:14] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:14] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:16] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:16] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:16] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:18] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:18] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:18] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:20] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:20] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:20] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:22] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:22] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:22] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:24] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:24] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:24] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:26] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:26] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:26] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:28] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:28] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:28] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:30] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:30] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:30] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:32] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:32] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:32] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:34] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:34] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:34] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:36] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:36] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:36] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:38] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:38] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:38] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:40] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:40] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:40] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:42] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:42] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:42] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:44] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:44] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:44] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:46] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:46] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:46] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:48] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:48] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:48] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:50] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:50] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:50] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:52] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:52] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:52] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:54] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:54] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:54] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:56] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:56] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:56] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:36:58] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:36:58] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:36:58] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:00] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:00] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:00] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:02] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:02] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:02] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:04] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:04] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:04] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:06] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:06] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:06] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:08] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:08] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:08] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:10] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:10] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:10] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:12] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:12] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:12] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:14] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:14] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:14] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:16] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:16] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:16] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:18] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:18] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:18] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:20] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:20] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:20] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:22] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:22] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:22] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:24] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:24] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:24] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:26] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:26] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:26] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:28] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:28] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:28] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:30] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:30] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:30] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:32] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:32] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:32] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:34] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:34] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:34] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:36] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:36] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:36] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:38] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:38] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:38] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:40] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:40] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:40] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:42] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:42] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:42] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:44] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:44] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:44] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:46] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:46] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:46] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:48] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:48] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:48] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:50] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:50] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:50] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:52] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:52] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:52] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:54] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:54] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:54] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:56] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:56] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:56] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:37:58] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:37:58] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:37:58] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:00] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:00] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:00] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:02] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:02] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:02] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:04] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:04] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:04] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:06] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:06] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:06] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:08] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:08] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:08] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:10] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:10] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:10] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:12] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:12] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:12] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:14] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:14] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:14] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:16] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:16] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:16] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:18] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:18] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:18] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:20] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:20] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:20] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:22] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:22] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:22] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:24] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:24] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:24] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:26] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:26] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:26] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:28] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:28] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:28] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:30] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:30] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:30] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:32] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:32] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:32] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:34] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:34] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:34] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:36] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:36] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:36] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:38] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:38] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:38] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:40] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:40] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:40] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:42] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:42] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:42] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:44] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:44] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:44] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:46] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:46] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:46] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:48] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:48] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:48] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:50] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:50] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:50] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:52] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:52] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:52] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:54] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:54] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:54] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:56] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:56] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:56] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:38:58] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:38:58] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:38:58] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:39:00] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:39:00] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:39:00] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:39:02] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:39:02] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:39:02] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:39:04] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:39:04] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:39:04] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:39:06] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:39:06] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:39:06] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:39:08] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:39:08] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:39:08] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:39:10] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:39:10] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:39:10] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:39:12] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:39:12] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:39:12] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:39:14] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:39:14] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:39:14] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:39:14] [INFO] [WEB] [95.214.52.169] GET /login.asp
+[2025-07-17 22:39:16] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:39:16] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:39:16] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:39:18] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:39:18] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:39:18] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:39:20] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:39:20] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:39:20] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:39:22] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:39:22] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:39:22] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:39:24] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:39:24] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:39:24] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:39:26] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:39:26] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:39:26] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:39:28] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:39:28] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:39:28] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:39:30] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:39:30] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:39:30] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:39:32] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:39:32] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:39:32] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:39:34] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:39:34] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:39:34] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:39:36] [INFO] [WEB] [91.223.70.49] GET /api/status
+[2025-07-17 22:39:36] [INFO] [WEB] [91.223.70.49] GET /api/logs
+[2025-07-17 22:39:36] [INFO] [WEB] Открыт файл логов: D:\Programms\MSHost-build\server.log
+[2025-07-17 22:39:36] [WARN] [WEB] Остановка WEB сервера...
+[2025-07-17 22:39:38] [INFO] [WEB] Сервер остановлен

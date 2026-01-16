@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>MSHost by BaDRiVeR</title>
+  <link rel="icon" type="image/png" href="/favicon.png">
+  <link rel="stylesheet" href="/assets/css/index.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <div class="container">
+    <h1>Minecraft Server Control v0.3.0a</h1>
+    
+    <div class="control-buttons">
+      <button onclick="send('/api/start')">▶️ Запустить</button>
+      <button onclick="send('/api/stop')">⛔ Остановить</button>
+      <button onclick="send('/api/exit')">⛔ Отключить</button>
+    </div>
+    
+    <div id="status">Статус: —</div>
+    
+    <div class="server-info">
+      <strong>IP: </strong><span id="server-ip">—</span> :
+      <strong>Port: </strong><span id="server-port">—</span>
+      <div class="server-version">
+        <strong>Version: </strong><span id="server-version">—</span>
+      </div>
+    </div>
+    
+    <div class="download-section">
+      <button onclick="downloadModpack()">⬇️ Скачать сборку модов</button>
+    </div>
+    
+    <div class="log-container">
+      <h3 class="log-header">Логи сервера:</h3>
+      <div class="log-content-wrapper">
+        <pre id="log-box"></pre>
+        <button class="scroll-down-btn" onclick="scrollLogsToBottom()">↓</button>
+      </div>
+      
+      <div class="command-section">
+        <input type="text" id="command" placeholder="Введите команду Minecraft">
+        <!--<button onclick="sendCommand()">💬 Отправить команду</button>-->
+      </div>
+    </div>
+  </div>
+
+  <script src="/assets/js/unobfs.js"></script>
+</body>
+</html>

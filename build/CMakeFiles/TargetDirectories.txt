@@ -1,0 +1,3 @@
+D:/Programms/MSHost/build/CMakeFiles/mshost.dir
+D:/Programms/MSHost/build/CMakeFiles/ALL_BUILD.dir
+D:/Programms/MSHost/build/CMakeFiles/ZERO_CHECK.dir

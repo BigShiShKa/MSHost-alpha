@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <title>MSHost by BaDRiVeR</title>
+  <link rel="icon" type="image/png" href="/favicon.png">
+  <style>
+    body {
+      font-family: sans-serif;
+      background-color: #1b1b1b;
+      color: #eee;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding-top: 50px;
+    }
+    h1 { margin-bottom: 20px; }
+    button {
+      background: #444;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      margin: 5px;
+      font-size: 16px;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+    button:hover { background: #666; }
+    input {
+      margin-bottom: 20px;
+      padding: 8px;
+      width: 200px;
+    }
+    #status {
+      margin-top: 20px;
+      font-size: 18px;
+      padding: 10px 20px;
+      background: #333;
+      border-radius: 5px;
+      min-width: 200px;
+      text-align: center;
+    }
+    pre#log-box {
+      font-family: "Fira Code", Consolas, monospace;
+      white-space: pre-wrap;         /* переносит длинные строки */
+      line-height: 1.2;
+      background: #101010;
+      color: #0f0;
+    }
+  </style>
+</head>
+<body>
+  <h1>Minecraft Server Control v0.2.7a</h1>
+  <div>
+    <button onclick="send('/api/start')">▶️ Запустить</button>
+    <button onclick="send('/api/stop')">⛔ Остановить</button>
+    <button onclick="send('/api/exit')">⛔ Отключить</button>
+  </div>
+
+  <div style="margin-top: 30px;">
+    <input type="text" id="command" placeholder="Введите команду Minecraft" style="width: 300px;" />
+    <button onclick="sendCommand()">💬 Отправить команду</button>
+  </div>
+  <div id="status">Статус: —</div>
+  <div>
+    <strong>IP: </strong><span id="server-ip">—</span> :
+    <strong>Port: </strong><span id="server-port">—</span>
+  </div>
+  <div style="margin-top: 20px;">
+    <button onclick="downloadModpack()">⬇️ Скачать сборку модов</button>
+  </div>
+  <div style="margin-top: 20px; width: 80%;">
+    <h3>Логи сервера:</h3>
+    <pre id="log-box" style="background:#111; color:#0f0; padding:10px; height:300px; overflow-y:scroll; border-radius:5px;"></pre>
+  </div>
+
+<script src = "main.js"></script>
+</body>
+</html>

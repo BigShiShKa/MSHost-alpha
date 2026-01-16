@@ -1,0 +1,20 @@
+{
+  "java": {
+    "path": "C:\\Program Files\\Zulu\\zulu-17\\bin\\java.exe",
+    "jvm_args": [
+      "-Xmx10G"
+    ]
+  },
+  "server": {
+    "directory": "C:\\Games\\Arclight1.20.1",
+    "forge_args": "@libraries/net/minecraftforge/forge/1.20.1-47.3.22/win_args.txt",
+    "user_jvm_args": "@user_jvm_args.txt",
+    "stop_timeout_ms": 40000,
+    "force_kill_timeout_ms": 5000
+  },
+  "logging": {
+    "console": true,
+    "log_file": "server.log",
+    "log_level": "INFO"
+  }
+}

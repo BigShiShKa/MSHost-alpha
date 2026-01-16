@@ -1,0 +1,14 @@
+http://mshost.zapto.org {
+    redir https://{host}{uri}
+}
+
+mshost.zapto.org {
+    tls youremail@example.com
+
+    reverse_proxy 127.0.0.1:8080
+
+    log {
+        output file caddy_access.log
+        format json
+    }
+}

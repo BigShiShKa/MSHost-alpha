@@ -1,0 +1,331 @@
+/* Основные стили */
+body {
+  font-family: 'Segoe UI', Roboto, -apple-system, sans-serif;
+  background-color: #121212;
+  color: #e0e0e0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 24px;
+  margin: 0;
+  min-height: 100vh;
+  box-sizing: border-box;
+  line-height: 1.6;
+}
+
+.container {
+  width: 100%;
+  max-width: 2000px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  gap: 20px;
+}
+
+h1 { 
+  margin-bottom: 24px;
+  color: #fff;
+  font-size: clamp(1.8rem, 4vw, 2.4rem);
+  text-align: center;
+  font-weight: 600;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+  letter-spacing: 0.5px;
+}
+
+/* Стили кнопок */
+.control-buttons {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+button {
+  background: linear-gradient(to bottom, #444, #383838);
+  color: white;
+  border: none;
+  padding: 14px 28px;
+  font-size: clamp(15px, 2vw, 17px);
+  cursor: pointer;
+  border-radius: 8px;
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  white-space: nowrap;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  border: 1px solid #4a4a4a;
+  font-weight: 500;
+}
+
+button:hover { 
+  background: linear-gradient(to bottom, #555, #494949);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+}
+
+/* Блок статуса */
+#status {
+  margin-top: 16px;
+  font-size: clamp(16px, 2vw, 18px);
+  padding: 14px 32px;
+  background: #2a2a2a;
+  border-radius: 8px;
+  min-width: min(220px, 80%);
+  text-align: center;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.2);
+  border: 1px solid #3a3a3a;
+  font-weight: 500;
+}
+
+/* Информация о сервере */
+.server-info {
+  margin: 16px 0;
+  font-size: clamp(15px, 2vw, 17px);
+  color: #d0d0d0;
+  text-align: center;
+  background: #252525;
+  padding: 16px 24px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  border: 1px solid #383838;
+}
+
+.server-info strong {
+  color: #f0f0f0;
+  font-weight: 500;
+}
+
+.server-version {
+  margin-top: 12px;
+  display: block;
+  padding-top: 12px;
+  border-top: 1px solid #383838;
+}
+
+/* Кнопка скачивания */
+.download-section {
+  margin-top: 16px;
+}
+
+.download-section button {
+  background: linear-gradient(to bottom, #2d5b88, #1e3a5f);
+  border-color: #3a6ea5;
+}
+
+.download-section button:hover {
+  background: linear-gradient(to bottom, #3a6ea5, #2a4e7a);
+}
+
+/* Контейнер логов */
+.log-container {
+  position: relative;
+  width: 100%;
+  margin-top: 24px;
+  background: #252525;
+  border-radius: 12px;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+  box-sizing: border-box;
+  border: 2px solid #383838;
+}
+
+.log-content-wrapper {
+  position: relative;
+  height: 50vh;
+  min-height: 320px;
+  max-height: 600px;
+  overflow: hidden;
+  background: #101010;
+  margin: 0 4px;
+}
+
+#log-box {
+  font-family: "Fira Code", "Cascadia Code", Consolas, monospace;
+  line-height: 1.5;
+  color: #0f0;
+  padding: 16px;
+  height: 100%;
+  width: 100%;
+  overflow-y: auto;
+  margin: 2px;
+  font-size: clamp(13px, 1.8vw, 15px);
+  word-break: break-word;
+  scrollbar-width: thin;
+  scrollbar-color: #444 #222;
+  box-sizing: border-box;
+}
+
+/* Кнопка прокрутки вниз */
+.scroll-down-btn {
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  width: 42px;
+  height: 42px;
+  background: rgba(60, 60, 60, 0.5);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  opacity: 0;
+  transition: all 0.3s ease;
+  border: 1px solid #555;
+  color: white;
+  font-size: 22px;
+  z-index: 10;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  padding: 0; /* Важно: убираем внутренние отступы */
+  margin: 0; /* Убираем внешние отступы */
+  line-height: 1; /* Фиксим выравнивание стрелки */
+  min-width: auto; /* Отключаем минимальную ширину */
+  min-height: auto; /* Отключаем минимальную высоту */
+}
+
+.log-content-wrapper:hover .scroll-down-btn {
+  opacity: 1;
+}
+
+.scroll-down-btn:hover {
+  background: rgba(80, 80, 80, 0.9);
+  transform: scale(1.1);
+}
+
+/* Секция с командой */
+.command-section {
+  margin-top: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 16px;
+  box-sizing: border-box;
+  background: #2a2a2a;
+  border-radius: 0 0 8px 8px;
+  border-top: 1px solid #383838;
+}
+
+.command-section input {
+  padding: 14px 16px;
+  width: calc(100% - 32px);
+  height: 22px;
+  font-size: clamp(15px, 2vw, 17px);
+  border: 1px solid #444;
+  border-radius: 8px;
+  background: #1e1e1e;
+  color: #eee;
+  transition: all 0.25s ease;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.command-section input:focus {
+  outline: none;
+  border-color: #555;
+  box-shadow: 0 0 0 2px rgba(85, 85, 85, 0.3);
+}
+
+/*.command-section button {
+  background: linear-gradient(to bottom, #444, #383838);
+  color: white;
+  border: 1px solid #4a4a4a;
+  padding: 12px 24px;
+  font-size: clamp(15px, 2vw, 17px);
+  cursor: pointer;
+  border-radius: 8px;
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  white-space: nowrap;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  font-weight: 500;
+  width: auto;
+  margin: 0;
+}
+
+.command-section button:hover {
+  background: linear-gradient(to bottom, #555, #494949);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+}*/
+
+/* Медиа-запросы для мобильных устройств */
+@media (max-width: 768px) {
+  body {
+    padding: 16px;
+  }
+  
+  .control-buttons {
+    gap: 8px;
+  }
+  
+  button {
+    padding: 12px 20px;
+  }
+  
+  .command-section {
+    padding: 12px;
+  }
+  
+  .command-section input {
+    width: calc(100% - 24px);
+    padding: 12px 14px;
+  }
+  
+  /*.command-section button {
+    padding: 10px 20px;
+  }*/
+  .log-content-wrapper {
+    height: 45vh;
+    min-height: 260px;
+  }
+  
+  #log-box {
+    height: 45vh;
+  }
+  
+  .scroll-down-btn {
+    width: 36px;
+    height: 36px;
+    font-size: 20px;
+    right: 16px;
+    bottom: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1.7rem;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 10px 16px;
+    font-size: 14px;
+  }
+  
+  .log-container {
+    margin-top: 20px;
+  }
+  
+  #log-box {
+    height: 40vh;
+    min-height: 260px;
+    padding: 12px;
+  }
+  
+  .command-section {
+    padding: 10px;
+  }
+  
+  .command-section input {
+    width: calc(100% - 16px);
+    padding: 10px 12px;
+  }
+  
+  /*.command-section button {
+    padding: 8px 16px;
+    font-size: 14px;
+  }*/
+  
+  .server-info {
+    padding: 12px 16px;
+  }
+}
