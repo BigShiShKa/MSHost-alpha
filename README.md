@@ -52,6 +52,6 @@ Winsock2 (Windows)
 
 # Установка
 **Сборка проекта**
----batch
+```batch
 g++ ./src/main.cpp ./src/MinecraftServerManager.cpp ./src/httpServer.cpp -o ./bin/mshost -lws2_32
----
+```
